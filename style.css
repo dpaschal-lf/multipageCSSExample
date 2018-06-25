@@ -1,0 +1,17 @@
+
+
+.homePage .warningText{
+	background-color: red;
+	color: yellow;
+}
+.homePage li{
+	font-size: 200%;
+}
+
+.contactPage .warningText{
+	background-color: green;
+	color: pink;
+}
+.contactPage li{
+	font-size: 100%;
+}
